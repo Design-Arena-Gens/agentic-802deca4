@@ -1,0 +1,32 @@
+{
+  "name": "codex-project-802deca4-6ca8-4335-a52b-ca4506ad74e4",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "googleapis": "^169.0.0",
+    "luxon": "^3.7.2",
+    "nanoid": "^5.1.6",
+    "next": "16.1.1",
+    "openai": "^6.15.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "replicate": "^1.4.0",
+    "zod": "^4.3.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
